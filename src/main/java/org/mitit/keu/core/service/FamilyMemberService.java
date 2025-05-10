@@ -1,6 +1,6 @@
 package org.mitit.keu.core.service;
 import org.mitit.keu.core.repositories.FamilyMemberRepository;
-import org.mitit.keu.entities.FamilyMember;
+import org.mitit.keu.core.entities.FamilyMember;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -2,11 +2,10 @@ package org.mitit.keu.core.service;
 
 import lombok.RequiredArgsConstructor;
 import org.mitit.keu.core.repositories.FinanceSourceRepository;
-import org.mitit.keu.entities.FinanceSource;
+import org.mitit.keu.core.entities.FinanceSource;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-import java.util.stream.Collectors;
 
 @Service
 @RequiredArgsConstructor

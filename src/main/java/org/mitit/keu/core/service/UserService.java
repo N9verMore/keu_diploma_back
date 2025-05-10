@@ -1,7 +1,7 @@
 package org.mitit.keu.core.service;
 
 import org.mitit.keu.core.repositories.UserRepository;
-import org.mitit.keu.entities.User;
+import org.mitit.keu.core.entities.User;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

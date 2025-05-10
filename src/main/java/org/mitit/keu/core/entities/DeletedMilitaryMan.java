@@ -1,4 +1,4 @@
-package org.mitit.keu.entities;
+package org.mitit.keu.core.entities;
 
 import lombok.*;
 import org.springframework.format.annotation.DateTimeFormat;

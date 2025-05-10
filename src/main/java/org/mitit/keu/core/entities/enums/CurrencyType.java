@@ -1,4 +1,4 @@
-package org.mitit.keu.entities.enums;
+package org.mitit.keu.core.entities.enums;
 
 public enum CurrencyType {
     UAH ,USD, EUR

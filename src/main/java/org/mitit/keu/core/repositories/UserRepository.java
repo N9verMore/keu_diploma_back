@@ -1,6 +1,6 @@
 package org.mitit.keu.core.repositories;
 
-import org.mitit.keu.entities.User;
+import org.mitit.keu.core.entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

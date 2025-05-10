@@ -1,7 +1,7 @@
 package org.mitit.keu.core.service;
 
 import org.mitit.keu.core.repositories.ProvidedFlatRepository;
-import org.mitit.keu.entities.ProvidedFlat;
+import org.mitit.keu.core.entities.ProvidedFlat;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

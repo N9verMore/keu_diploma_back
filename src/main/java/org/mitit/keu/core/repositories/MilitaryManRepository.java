@@ -1,6 +1,6 @@
 package org.mitit.keu.core.repositories;
 
-import org.mitit.keu.entities.MilitaryMan;
+import org.mitit.keu.core.entities.MilitaryMan;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

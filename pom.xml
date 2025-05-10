@@ -71,10 +71,18 @@
         <dependency>
             <groupId>com.ibm.icu</groupId>
             <artifactId>icu4j</artifactId>
-            <version>69.1</version> <!-- Проверьте актуальную версию на момент использования -->
+            <version>69.1</version>
         </dependency>
 
     </dependencies>
+
+    <repositories>
+        <repository>
+            <id>e-iceblue</id>
+            <name>e-iceblue Public Repo</name>
+            <url>https://repo.e-iceblue.com/nexus/content/groups/public/</url>
+        </repository>
+    </repositories>
 
     <build>
         <plugins>

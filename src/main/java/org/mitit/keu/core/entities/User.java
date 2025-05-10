@@ -1,9 +1,9 @@
-package org.mitit.keu.entities;
+package org.mitit.keu.core.entities;
 
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
-import org.mitit.keu.entities.enums.SexEnum;
+import org.mitit.keu.core.entities.enums.SexEnum;
 import org.springframework.format.annotation.DateTimeFormat;
 
 import javax.persistence.*;

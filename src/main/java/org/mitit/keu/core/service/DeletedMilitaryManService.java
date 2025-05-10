@@ -1,7 +1,7 @@
 package org.mitit.keu.core.service;
 
 import org.mitit.keu.core.repositories.DeletedMilitaryManRepository;
-import org.mitit.keu.entities.DeletedMilitaryMan;
+import org.mitit.keu.core.entities.DeletedMilitaryMan;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

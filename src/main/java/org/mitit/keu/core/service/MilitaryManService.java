@@ -1,11 +1,11 @@
 package org.mitit.keu.core.service;
 
 import org.mitit.keu.core.repositories.MilitaryManRepository;
-import org.mitit.keu.entities.FamilyMember;
-import org.mitit.keu.entities.MilitaryMan;
-import org.mitit.keu.entities.Quota;
-import org.mitit.keu.entities.enums.QuotaType;
-import org.mitit.keu.entities.enums.SexEnum;
+import org.mitit.keu.core.entities.FamilyMember;
+import org.mitit.keu.core.entities.MilitaryMan;
+import org.mitit.keu.core.entities.Quota;
+import org.mitit.keu.core.entities.enums.QuotaType;
+import org.mitit.keu.core.entities.enums.SexEnum;
 import lombok.AllArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

@@ -1,7 +1,7 @@
 package org.mitit.keu.core.service;
 
 import org.mitit.keu.core.repositories.GarrisonRepository;
-import org.mitit.keu.entities.Garrison;
+import org.mitit.keu.core.entities.Garrison;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

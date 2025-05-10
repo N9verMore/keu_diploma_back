@@ -1,7 +1,7 @@
 package org.mitit.keu.core.repositories;
 
-import org.mitit.keu.entities.Role;
-import org.mitit.keu.entities.enums.RoleEnum;
+import org.mitit.keu.core.entities.Role;
+import org.mitit.keu.core.entities.enums.RoleEnum;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

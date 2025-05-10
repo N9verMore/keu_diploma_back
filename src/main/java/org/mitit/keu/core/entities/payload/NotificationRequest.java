@@ -1,4 +1,4 @@
-package org.mitit.keu.entities.payload;
+package org.mitit.keu.core.entities.payload;
 
 import lombok.Getter;
 import lombok.Setter;

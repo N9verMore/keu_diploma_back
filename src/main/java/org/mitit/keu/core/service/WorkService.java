@@ -1,7 +1,7 @@
 package org.mitit.keu.core.service;
 
 import org.mitit.keu.core.repositories.WorkRepository;
-import org.mitit.keu.entities.Work;
+import org.mitit.keu.core.entities.Work;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

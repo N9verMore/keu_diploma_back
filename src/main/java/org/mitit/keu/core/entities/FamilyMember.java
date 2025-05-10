@@ -1,6 +1,6 @@
-package org.mitit.keu.entities;
+package org.mitit.keu.core.entities;
 
-import org.mitit.keu.entities.enums.SexEnum;
+import org.mitit.keu.core.entities.enums.SexEnum;
 import lombok.*;
 import org.springframework.format.annotation.DateTimeFormat;
 

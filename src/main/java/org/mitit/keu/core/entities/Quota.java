@@ -1,7 +1,7 @@
-package org.mitit.keu.entities;
+package org.mitit.keu.core.entities;
 
 import lombok.*;
-import org.mitit.keu.entities.enums.QuotaType;
+import org.mitit.keu.core.entities.enums.QuotaType;
 
 import javax.persistence.*;
 import java.io.Serializable;

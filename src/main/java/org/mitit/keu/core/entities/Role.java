@@ -1,6 +1,6 @@
-package org.mitit.keu.entities;
+package org.mitit.keu.core.entities;
 
-import org.mitit.keu.entities.enums.RoleEnum;
+import org.mitit.keu.core.entities.enums.RoleEnum;
 
 import javax.persistence.*;
 

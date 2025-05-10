@@ -1,4 +1,4 @@
-package org.mitit.keu.entities;
+package org.mitit.keu.core.entities;
 
 //@Entity
 //@Table(name = "queue_number")

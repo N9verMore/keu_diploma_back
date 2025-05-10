@@ -1,16 +1,16 @@
-package org.mitit.keu.entities.enums;
+package org.mitit.keu.core.entities.enums;
 
 import java.util.Arrays;
 
-public enum RankType {
+public enum QuotaType {
 
-    PRESENTMILITARY("в/сл."),
-    RESERVEMILITARY("в/сл.зап."),
-    NONMILITARY("сл.ЗСУ");
+    NONE("без пільг"),
+    OUTOFQUEUE("позачерговий"),
+    FIRSTINPRIORITY("першочерговий");
 
     private String name;
 
-    RankType(String name) {
+    QuotaType(String name) {
         this.name = name;
     }
 

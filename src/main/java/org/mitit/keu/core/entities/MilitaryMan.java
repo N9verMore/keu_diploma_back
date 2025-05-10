@@ -1,4 +1,4 @@
-package org.mitit.keu.entities;
+package org.mitit.keu.core.entities;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -6,8 +6,8 @@ import lombok.ToString;
 import org.hibernate.annotations.ColumnDefault;
 import org.hibernate.annotations.Type;
 import org.hibernate.annotations.UpdateTimestamp;
-import org.mitit.keu.entities.enums.Provided;
-import org.mitit.keu.entities.enums.QuotaType;
+import org.mitit.keu.core.entities.enums.Provided;
+import org.mitit.keu.core.entities.enums.QuotaType;
 import org.springframework.format.annotation.DateTimeFormat;
 
 import javax.persistence.*;

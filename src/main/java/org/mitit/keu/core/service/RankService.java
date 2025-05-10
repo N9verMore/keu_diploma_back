@@ -1,7 +1,7 @@
 package org.mitit.keu.core.service;
 
 import org.mitit.keu.core.repositories.RankRepository;
-import org.mitit.keu.entities.Rank;
+import org.mitit.keu.core.entities.Rank;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

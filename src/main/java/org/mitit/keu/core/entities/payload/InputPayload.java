@@ -1,9 +1,9 @@
-package org.mitit.keu.entities.payload;
+package org.mitit.keu.core.entities.payload;
 
 import lombok.Getter;
 import lombok.Setter;
-import org.mitit.keu.entities.MilitaryMan;
-import org.mitit.keu.entities.Registry;
+import org.mitit.keu.core.entities.MilitaryMan;
+import org.mitit.keu.core.entities.Registry;
 
 @Getter
 @Setter

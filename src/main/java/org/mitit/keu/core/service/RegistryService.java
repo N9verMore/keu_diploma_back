@@ -1,7 +1,7 @@
 package org.mitit.keu.core.service;
 
 import org.mitit.keu.core.repositories.RegistryRepository;
-import org.mitit.keu.entities.Registry;
+import org.mitit.keu.core.entities.Registry;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

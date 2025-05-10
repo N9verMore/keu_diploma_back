@@ -1,7 +1,7 @@
 package org.mitit.keu.core.service;
 
 import org.mitit.keu.core.repositories.QuotaRepository;
-import org.mitit.keu.entities.Quota;
+import org.mitit.keu.core.entities.Quota;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
