@@ -1,7 +1,7 @@
 FROM maven:3.8-openjdk-8 AS builder
 WORKDIR /app
 COPY pom.xml .
-COPY src/main/java/org/mimit/keu/enduser/EUSignJava.jar ./EUSignJava.jar
+COPY src/main/java/org/mitit/keu/enduser/EUSignJava.jar ./EUSignJava.jar
 
 RUN mvn install:install-file -Dfile=EUSignJava.jar -DgroupId=com.iit -DartifactId=enduser -Dversion=1.0.0 -Dpackaging=jar
 
